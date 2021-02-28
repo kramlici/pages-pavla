@@ -1,1 +1,9 @@
 theme: jekyll-theme-hacker
+
+title: Title
+author: Author
+email: Email
+description: >
+  Description
+
+show_excerpts: false # set to false to remove excerpts on the homepage
