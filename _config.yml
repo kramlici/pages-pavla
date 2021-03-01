@@ -1,4 +1,4 @@
-theme: jekyll-theme-minimal
+theme: minima
 
 title: Title
 author: Author
@@ -6,4 +6,4 @@ email: Email
 description: >
   Description
 
-show_excerpts: false # set to false to remove excerpts on the homepage
+show_excerpts: true # set to false to remove excerpts on the homepage
